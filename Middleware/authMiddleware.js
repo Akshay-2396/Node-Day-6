@@ -1,4 +1,4 @@
-import jwt from "jsonwebtoken";
+/*import jwt from "jsonwebtoken";
 import User from "../Model/userModel.js";
 import dotenv from "dotenv";
 
@@ -44,4 +44,4 @@ export const adminMiddleware = async (req, res, next) => {
   } catch (error) {
     res.status(500).json({ message: error.message });
   }
-};
+};*/

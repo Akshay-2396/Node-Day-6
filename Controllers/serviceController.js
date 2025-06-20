@@ -1,4 +1,4 @@
-import Service from "../Model/serviceModel.js";
+/*import Service from "../Model/serviceModel.js";
 
 //create a new service
 
@@ -66,4 +66,4 @@ export const deleteService = async (req, res) => {
   } catch (error) {
     res.status(500).json({ message: error.message });
   }
-};
+};*/

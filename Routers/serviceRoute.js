@@ -1,4 +1,4 @@
-import express from "express";
+/*import express from "express";
 import { createService, deleteService, getService, updateService } from "../Controllers/serviceController.js";
 import { adminMiddleware } from "../Middleware/authMiddleware.js";
 
@@ -12,4 +12,4 @@ router.delete("/delete/:id",adminMiddleware,deleteService)
 
 
 
-export default router;
+export default router;*/

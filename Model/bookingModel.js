@@ -1,4 +1,4 @@
-import mongoose from "mongoose";
+/*import mongoose from "mongoose";
 
 const bookingSchema = new mongoose.Schema({
   user: {
@@ -19,4 +19,4 @@ const bookingSchema = new mongoose.Schema({
 
 const Booking = mongoose.model("Booking", bookingSchema);
 
-export default Booking;
+export default Booking;*/
